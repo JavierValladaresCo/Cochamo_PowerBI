@@ -2,7 +2,7 @@
 
 description
 
-![Municipalidad de Cochamo](/Images/escudocochamo-1 "Municipalidad de Cochamo")
+![Municipalidad de Cochamo](/Images/escudocochamo-1.png "Municipalidad de Cochamo")
 
 
 ## Methods Used
