@@ -24,8 +24,6 @@ The purpose of this project is to present important data visualizations of reven
 
 ## Conclusions
 
-xfun::embed_file("Project.pdf")
-
 
 ![Confussion Matrix](/images/Confussion Matrix.png "Confussion Matrix")
 
