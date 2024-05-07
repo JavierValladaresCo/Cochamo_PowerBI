@@ -1,6 +1,6 @@
-# Data Visualization related to vehicle permit revenues in Monicipalidad de Cochamó.
+# Data Visualization related to vehicle permit revenues of municipality of Cochamó.
 
-description
+The purpose of this project is to present important data visualizations of revenue of municipality of Cochamó, in order to observe the evolution of the municipality over time. The data used was obtained from [datos.gob](https://datos.gob.cl/).
 
 ![Municipalidad de Cochamo](/Images/escudocochamo-1.png "Municipalidad de Cochamo")
 
