@@ -2,8 +2,8 @@
 
 The purpose of this project is to present important data visualizations of revenue of Cochamó municipality, in order to observe the evolution of the municipality over time. The data used was obtained from [datos.gob](https://datos.gob.cl/).
 
-![Dashboard 1](/Images/Dashboard-imágenes-0.jpg "Dashboard 1")
-![Dashboard 2](/Images/Dashboard-imágenes-1.jpg "Dashboard 2")
+![Dashboard 1](/Images/Report_1.jpg "Dashboard 1")
+![Dashboard 2](/Images/Report_2.jpg "Dashboard 2")
 
 
 ## Methods Used
